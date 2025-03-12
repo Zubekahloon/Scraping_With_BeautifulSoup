@@ -1,0 +1,5 @@
+1. install Python 3.x
+2. Import requests
+3. import BeautifulSoup
+4. Import pandas
+Required Python libraries (requests, BeautifulSoup4, pandas)
